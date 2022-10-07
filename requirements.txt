@@ -1,0 +1,1 @@
+discord_py_interactions==4.3.2
